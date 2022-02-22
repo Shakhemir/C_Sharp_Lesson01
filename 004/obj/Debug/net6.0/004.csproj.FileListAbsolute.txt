@@ -1,0 +1,15 @@
+/Users/shakh/Desktop/C#/004/obj/Debug/net6.0/004.csproj.AssemblyReference.cache
+/Users/shakh/Desktop/C#/004/obj/Debug/net6.0/004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shakh/Desktop/C#/004/obj/Debug/net6.0/004.AssemblyInfoInputs.cache
+/Users/shakh/Desktop/C#/004/obj/Debug/net6.0/004.AssemblyInfo.cs
+/Users/shakh/Desktop/C#/004/obj/Debug/net6.0/004.csproj.CoreCompileInputs.cache
+/Users/shakh/Desktop/C#/004/bin/Debug/net6.0/004
+/Users/shakh/Desktop/C#/004/bin/Debug/net6.0/004.deps.json
+/Users/shakh/Desktop/C#/004/bin/Debug/net6.0/004.runtimeconfig.json
+/Users/shakh/Desktop/C#/004/bin/Debug/net6.0/004.dll
+/Users/shakh/Desktop/C#/004/bin/Debug/net6.0/004.pdb
+/Users/shakh/Desktop/C#/004/obj/Debug/net6.0/004.dll
+/Users/shakh/Desktop/C#/004/obj/Debug/net6.0/refint/004.dll
+/Users/shakh/Desktop/C#/004/obj/Debug/net6.0/004.pdb
+/Users/shakh/Desktop/C#/004/obj/Debug/net6.0/004.genruntimeconfig.cache
+/Users/shakh/Desktop/C#/004/obj/Debug/net6.0/ref/004.dll
